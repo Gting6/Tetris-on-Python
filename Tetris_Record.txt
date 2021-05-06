@@ -1,2 +1,5 @@
 hard,7,gting
 hard,9,wen
+hard,1,gting
+hard,0,gting
+easy,4,weiche
