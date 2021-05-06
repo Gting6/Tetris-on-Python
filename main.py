@@ -374,7 +374,7 @@ def level():
                 if 350+100 > mouse[0] > 350 and 600 + 40 > mouse[1] > 600:
                     pygame.draw.rect(background,(0,0,0),(0,0,800,800))
                     pygame.display.update()
-                    return 0.25,'hard'
+                    return 0.1,'hard'
 
 def sc(s,c):
     pygame.draw.rect(background,(0,0,0),(200,400,90,100))
