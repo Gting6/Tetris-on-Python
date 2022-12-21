@@ -5,6 +5,13 @@ https://user-images.githubusercontent.com/46078333/205476633-dac27dd6-38dc-41e8-
 ## Prequisite
 - `pip3 install pygame`
 
+## Two Player Game of Tetris Battle
+`python3 Server.py`
+`python3 Tetris.py`
+`python3 Tetris.py`
+Use Multi-threading and socket programming to make a multiplayer tetris game
+
+
 ## A Single Player Game of Tetris Battle ##
 `python3 main.py`
 Use arrow up, down, left, and right to control, space to push down the tetrix
