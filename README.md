@@ -1,5 +1,8 @@
 # Tetris-on-Python
-## Demo Video
+## Results (2 players)
+<img width="596" alt="image" src="https://user-images.githubusercontent.com/46078333/208851633-72c5614c-787a-4fdc-839c-90062e1e2e10.png">
+
+## Demo Video (1 player)
 https://user-images.githubusercontent.com/46078333/205476633-dac27dd6-38dc-41e8-abba-ef25b70799e6.mp4
 
 ## Prequisite
@@ -10,6 +13,7 @@ https://user-images.githubusercontent.com/46078333/205476633-dac27dd6-38dc-41e8-
 `python3 Tetris.py`
 `python3 Tetris.py`
 Use Multi-threading and socket programming to make a multiplayer tetris game
+- Note that one should modify the ip address in `Server.py`, `Network.py` to his / her own
 
 
 ## A Single Player Game of Tetris Battle ##
