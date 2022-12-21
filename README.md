@@ -5,7 +5,7 @@
 ## Demo Video (1 player)
 https://user-images.githubusercontent.com/46078333/205476633-dac27dd6-38dc-41e8-abba-ef25b70799e6.mp4
 
-## Prequisite
+## Prerequisite
 - `pip3 install pygame`
 
 ## Two Player Game of Tetris Battle
